@@ -1,0 +1,19 @@
+/* components/GrapeJS.css */
+.grapejs-container {
+  display: flex;
+}
+
+.block-panel {
+  width: 250px; /* Adjust width as needed */
+  padding: 10px;
+  border-right: 1px solid #ddd;
+  background-color: #f5f5f5;
+}
+
+.block-panel .gjs-block {
+  margin-bottom: 10px;
+}
+
+.editor-canvas {
+  flex: 1;
+}
